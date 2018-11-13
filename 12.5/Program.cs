@@ -10,6 +10,8 @@ namespace _12._5
     {
         static void Main(string[] args)
         {
+
+            Console.Read();
         }
     }
 }
